@@ -1,5 +1,5 @@
 
-# Hi there, I'm Rahat Hussain! 👋
+# Hi there, I'm Rahat Hussain Larik! 👋
 
 <div align="center">
   <h3>🚀 Founder & CEO @ Umbrella | Software Developer | AI Specialist</h3>
