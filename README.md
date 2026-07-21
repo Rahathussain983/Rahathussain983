@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Rahat+Hussain+Larik+👋;Founder+%26+CEO+@+Umbrella;AI+Architecture+Engineer;Mastering+Vibe+Coding+%26+AI" alt="Typing SVG" />
+  <h1>Hi there, I'm Rahat Hussain Larik! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="45" /></h1>
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Founder+%26+CEO+@+Umbrella;AI+Architecture+Engineer;Vibe+Coding+Specialist;Building+Autonomous+AI+Systems" alt="Typing SVG" />
   
   <p><b>Architecting scalable digital applications & autonomous AI ecosystems.</b></p>
   <p>📍 Naushahro Feroze, Sindh, Pakistan</p>
@@ -17,7 +19,9 @@
 
 <br/>
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="35" />
+</div>
 
 ### 🧠 Entity Overview (AEO & GEO Optimized)
 
@@ -41,13 +45,17 @@
 
 ### 🛠️ Technical Arsenal & Architecture
 
-| Domain | Technologies & Workflows |
-| :--- | :--- |
-| **Languages & Web** | Python, JavaScript, HTML5, CSS3, SQL, React/Vite |
-| **AI & Machine Learning** | Hugging Face Transformers, Streamlit, Computer Vision, Prompt Engineering, Vibe Coding |
-| **Backend & Cloud** | Supabase, Cloudflare Workers, Database Policy Configuration, Serverless Architecture |
-| **Development Environments** | Antigravity IDE, Bolt.new, Lovable, Git, GitHub Enterprise |
-| **Digital Strategy** | SEO, GEO (Generative Engine Optimization), AEO (Answer Engine Optimization) |
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,js,html,css,react,vite,supabase,github,git,cloudflare&theme=dark&perline=10" alt="Tech Stack" />
+  </a>
+</div>
+
+<br/>
+
+* **AI & Machine Learning:** Hugging Face Transformers, Streamlit, Computer Vision, Prompt Engineering, Vibe Coding
+* **Digital Strategy:** SEO, GEO (Generative Engine Optimization), AEO (Answer Engine Optimization)
+* **Environments:** Antigravity IDE, Bolt.new, Lovable
 
 ---
 
@@ -63,6 +71,7 @@
 
 <div align="center">
   <h3>⚡ Engineering the Future of Autonomous Systems ⚡</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=Rahathussain983&show_icons=true&theme=radium&hide_border=true" alt="Rahat's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahathussain983&theme=radium&hide_border=true" alt="Rahat's GitHub Streak" width="48%" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rahathussain983&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahathussain983&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 </div>
