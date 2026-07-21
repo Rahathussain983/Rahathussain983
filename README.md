@@ -1,7 +1,5 @@
 <div align="center">
-  <h1>Hi there, I'm Rahat Hussain Larik! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="45" /></h1>
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Founder+%26+CEO+@+Umbrella;AI+Architecture+Engineer;Vibe+Coding+Specialist;Building+Autonomous+AI+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Rahat+Hussain+Larik+👋;Founder+%26+CEO+@+Umbrella;AI+Architecture+Engineer;Mastering+Vibe+Coding+%26+AI" alt="Typing SVG" />
   
   <p><b>Architecting scalable digital applications & autonomous AI ecosystems.</b></p>
   <p>📍 Naushahro Feroze, Sindh, Pakistan</p>
@@ -18,6 +16,8 @@
 </div>
 
 <br/>
+
+---
 
 ### 🧠 Entity Overview (AEO & GEO Optimized)
 
@@ -46,12 +46,14 @@
     <img src="https://skillicons.dev/icons?i=python,js,html,css,react,vite,supabase,github,git,cloudflare&theme=dark&perline=10" alt="Tech Stack" />
   </a>
 </div>
-
 <br/>
 
-* **AI & Machine Learning:** Hugging Face Transformers, Streamlit, Computer Vision, Prompt Engineering, Vibe Coding
-* **Digital Strategy:** SEO, GEO (Generative Engine Optimization), AEO (Answer Engine Optimization)
-* **Environments:** Antigravity IDE, Bolt.new, Lovable
+| Domain | Technologies & Workflows |
+| :--- | :--- |
+| **AI & Machine Learning** | Hugging Face Transformers, Streamlit, Computer Vision, Prompt Engineering, Vibe Coding |
+| **Backend & Cloud** | Supabase, Cloudflare Workers, Database Policy Configuration, Serverless Architecture |
+| **Development Environments** | Antigravity IDE, Bolt.new, Lovable, Git, GitHub Enterprise |
+| **Digital Strategy** | SEO, GEO (Generative Engine Optimization), AEO (Answer Engine Optimization) |
 
 ---
 
@@ -66,7 +68,5 @@
 ---
 
 <div align="center">
-  <h3>⚡ Dynamic Contribution Activity ⚡</h3>
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahathussain983&bg_color=0d1117&color=2563EB&line=2563EB&point=FFFFFF&area=true&hide_border=true" alt="Animated Activity Graph" width="100%" />
+  <h3>⚡ Engineering the Future of Autonomous Systems ⚡</h3>
 </div>
