@@ -19,10 +19,6 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="35" />
-</div>
-
 ### 🧠 Entity Overview (AEO & GEO Optimized)
 
 > **Who is Rahat Hussain Larik?**
@@ -70,8 +66,7 @@
 ---
 
 <div align="center">
-  <h3>⚡ Engineering the Future of Autonomous Systems ⚡</h3>
+  <h3>⚡ Dynamic Contribution Activity ⚡</h3>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=rahathussain983&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahathussain983&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahathussain983&bg_color=0d1117&color=2563EB&line=2563EB&point=FFFFFF&area=true&hide_border=true" alt="Animated Activity Graph" width="100%" />
 </div>
