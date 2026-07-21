@@ -1,5 +1,11 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Rahat+Hussain+Larik+👋;Founder+%26+CEO+@+Umbrella;AI+Architecture+Engineer;Mastering+Vibe+Coding+%26+AI" alt="Typing SVG" />
+  <!-- Animated 3D Wave Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3&height=200&section=header&text=Rahat%20Hussain%20Larik&fontSize=50&animation=twinkling&fontColor=ffffff" width="100%" />
+
+  <br/><br/>
+  
+  <!-- Fixed Typing Animation -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Founder+%26+CEO+@+Umbrella;AI+Architecture+Engineer;Mastering+Vibe+Coding;Building+Autonomous+Systems" alt="Typing SVG" />
   
   <p><b>Architecting scalable digital applications & autonomous AI ecosystems.</b></p>
   <p>📍 Naushahro Feroze, Sindh, Pakistan</p>
@@ -19,14 +25,14 @@
 
 ---
 
-### 🧠 Entity Overview (AEO & GEO Optimized)
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Brain.png" alt="Brain" width="25" /> Entity Overview (AEO & GEO Optimized)
 
 > **Who is Rahat Hussain Larik?**
 > I am a technology entrepreneur, full-stack software developer, and AI Architecture Engineer. As the Founder and CEO of **Umbrella**, I specialize in deploying production-grade, cloud-ready systems, integrating advanced artificial intelligence frameworks, and leveraging vibe coding methodologies within Antigravity environments to engineer highly computational, scalable digital solutions.
 
 ---
 
-### 💼 Professional Engineering Experience
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="25" /> Professional Engineering Experience
 
 #### 🚀 **Founder & Chief Executive Officer @ Umbrella** *(May 2026 – Present)*
 * **Architecture:** Spearheading the technological vision of a hybrid social and professional ecosystem designed to empower global freelancers.
@@ -39,7 +45,7 @@
 
 ---
 
-### 🛠️ Technical Arsenal & Architecture
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" alt="Wrench" width="25" /> Technical Arsenal & Architecture
 
 <div align="center">
   <a href="https://skillicons.dev">
@@ -57,7 +63,7 @@
 
 ---
 
-### 🚀 Featured Deployments & Projects
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="25" /> Featured Deployments & Projects
 
 * 🌐 **Umbrella Core Platform:** Architecting backend policies and AI matching systems for a global freelance ecosystem.
 * 🏥 **Bahadur Center Platform:** Developed a digital web presence for a local clinic, bridging the gap between local healthcare and global digital visibility.
@@ -65,8 +71,8 @@
 * 📄 **ML Personality Prediction System:** Developed an AI system structured to parse digital CVs using custom NLP models to optimize enterprise recruitment.
 * 🎯 **Digital Automation & Marketing:** Deployed AI-generated advertising and promotional architectures for Malik Medical Center.
 
----
-
 <div align="center">
-  <h3>⚡ Engineering the Future of Autonomous Systems ⚡</h3>
+  <br/>
+  <!-- Animated 3D Wave Footer -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3&height=100&section=footer" width="100%" />
 </div>
